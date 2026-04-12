@@ -74,8 +74,8 @@ It enables real-time complaint processing, intelligent grouping, and priority-ba
 
 ### Alert (AWS SNS Alert)
 
-![SNSAlert](docs/SNS Alert/1SNS-alert-recieved.png)
-![Full Message](docs/SNS Alert/2-SNS-alert-recieved.png)
+![SNS Alert](docs/SNS-Alert/1SNS-alert-recieved.png)
+![Full Message](docs/SNS-Alert/2-SNS-alert-recieved.png)
 
 
 ### Database (DynamoDB)
