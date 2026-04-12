@@ -29,7 +29,11 @@ It enables real-time complaint processing, intelligent grouping, and priority-ba
 - Security: API Keys + IAM
 - Alert: SNS
 
+## Flowchart
+
 ![Flowchart](docs/diagrams/flowchart-locolink.drawio.png)
+
+## Use Case
 
 ![Use Case](docs/diagrams/use-case-locolink.drawio.png)
 
@@ -39,7 +43,7 @@ It enables real-time complaint processing, intelligent grouping, and priority-ba
 
 ## Screenshots
 
-### 🔹 Passenger Complaint UI
+### Passenger Complaint UI
 ![Home Page](docs/passenger-complaint-portal/1home-page.png)
 
 ![Complaint Registration Page](docs/passenger-complaint-portal/2complaint-registration-page.png)
@@ -55,7 +59,7 @@ It enables real-time complaint processing, intelligent grouping, and priority-ba
 ![Grouping Complaint](docs/passenger-complaint-portal/6-grouping-complaint.png)
 
 
-### 🔹 Dashboard
+### Dashboard
 ![Zero Complaint](docs/railway-control-room-dashboard/1-zero-complaint.png)
 
 ![Complaint Arrived](docs/railway-control-room-dashboard/2-one-complaint-arrived.png)
@@ -69,12 +73,12 @@ It enables real-time complaint processing, intelligent grouping, and priority-ba
 ![Different Zone](docs/railway-control-room-dashboard/6-zone-different.png)
 
 
-### 🔹 Database (DynamoDB)
+### Database (DynamoDB)
 ![DB](docs/testing-matrics/DynamoDB-data-stored.png)
 
 ![CSV File Screenshot](docs/testing-matrics/csv-file-dynamo-db.png)
 
-### 🔹 Testing Metrics
+### Testing Metrics
 ![Running Automation Script](docs/testing-matrics/1running-automation-script.png)
 
 ![Running Automation Script](docs/testing-matrics/2running-automation-script.png)
@@ -87,7 +91,7 @@ It enables real-time complaint processing, intelligent grouping, and priority-ba
 
 ---
 
-## 📊 Performance
+## Performance
 
 - Low latency (~200–700 ms)
 - Scalable serverless architecture
@@ -96,7 +100,7 @@ It enables real-time complaint processing, intelligent grouping, and priority-ba
 
 ---
 
-## 🧪 Testing
+## Testing
 
 Automated testing validates:
 
@@ -107,7 +111,7 @@ Automated testing validates:
 
 ---
 
-## 🔐 Security
+## Security
 
 - API key-based authentication
 - Backend validation using AWS Lambda
@@ -115,7 +119,7 @@ Automated testing validates:
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - AWS (Lambda, API Gateway, DynamoDB, Amplify)
 - Next.js (Frontend)
@@ -124,13 +128,13 @@ Automated testing validates:
 
 ---
 
-## 🎯 Use Case
+## Use Case
 
 Designed to enhance railway complaint systems by reducing redundancy, improving response time, and enabling better monitoring through dashboards.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Harsh Verma
 Linkedin ID: https://www.linkedin.com/in/harsh-verma19/
