@@ -94,7 +94,7 @@ It enables real-time complaint processing, intelligent grouping, and priority-ba
 
 ![Running Automation Script](docs/testing-matrics/5running-automation-script.png)
 
-![Automation Script Successfully Executed](D:\Github-LocoLink-Project\locolink-system\docs\testing-matrics\after-automation-script.png)
+![Automation Script Successfully Executed](docs\testing-matrics\after-automation-script.png)
 
 ---
 
