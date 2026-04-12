@@ -8,7 +8,7 @@ It enables real-time complaint processing, intelligent grouping, and priority-ba
 
 ## Features
 
-- Passenger complaint submission system (Next.js)
+- Passenger complaint submission system
 - Serverless backend using AWS Lambda & API Gateway
 - Intelligent complaint grouping & priority calculation
 - Real-time dashboard for railway staff
